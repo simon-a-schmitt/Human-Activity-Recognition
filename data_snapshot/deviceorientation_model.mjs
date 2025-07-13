@@ -27,4 +27,6 @@ const classifier =
 }
 ;
 
+window.deviceorientation_model=classifier;
+
 module.exports = classifier;
